@@ -48,6 +48,9 @@ Inspired by
 
 ### Examples of other useful glossary
 - [OOP specific](https://drive.google.com/file/d/0Bwu4iGPfYEufd2htbEtqUThqRWM/view?usp=sharing)
+A class is a blueprint for any functional entity which defines its properties and its functions.
+Abstraction means, showcasing only the required things to the outside workd while hiding the details. 
+Encapsulation is the process of enclosing all of the code neccassary to a particular operation into a single module and limiting the external dependencies of that module.
 - [Programming specific](http://www.labautopedia.org/mw/List_of_programming_and_computer_science_terms)
 - [Simple](https://pdfs.semanticscholar.org/a6a4/0519cc0d2919a3d4818e103466cbe3a1ff3f.pdf) 
 
